@@ -4,6 +4,7 @@ Hugo powered blog
 Adding submodule to public directory
 
 Make sure you have at least one commit on the main branch on the target repo before running this
+
 	git submodule add -b main YOUR_REPO_URL.git public
 
 
