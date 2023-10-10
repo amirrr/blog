@@ -1,5 +1,6 @@
 baseURL = 'https://amirrr.github.io/'
 languageCode = 'en-us'
-title = 'Amir N. Blog'
+title = 'Amir N.'
+theme = 'minimala'
 
-theme='contrast-hugo'
+defaultContentLanguage = "en"
