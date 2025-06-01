@@ -22,8 +22,8 @@ The template focuses on showcasing your profile, blog posts (or "posts"), and re
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git scholar-blog
-    cd scholar-blog
+    git clone https://github.com/amirrr/blog.git blog
+    cd blog
     ```
 
 2.  **Install dependencies:**
